@@ -43,7 +43,7 @@ const TeamStyles = styled.div`
 
             .member{
             width: 30%;
-            height: 300px;
+            height: 330px;
             display: flex;
             flex-direction: column;
             align-items: flex-start;
@@ -114,7 +114,7 @@ const TeamStyles = styled.div`
 
             .member{
             width: 40vw;
-            height: 200px;
+            height: 260px;
             display: flex;
             flex-direction: column;
             align-items: flex-start;
@@ -123,7 +123,7 @@ const TeamStyles = styled.div`
 
                 img{
                 width: 100%;
-                height: 150px;
+                height: 200px;
                 border-radius: 10px;
             }
 
