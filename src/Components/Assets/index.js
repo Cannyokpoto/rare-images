@@ -3,8 +3,8 @@ const PHOTOS = {
     
 
     //EXTRAS
-    ABOUT: require("./about.png"),
-    HERO: require("./hero.png"),
+    ABOUT: require("./about.jpg"),
+    HERO: require("./hero.jpg"),
     rareFave: require("./rare fave.png"),
     LOGO:    require("./rare logo.png"),
     TEAM1:  require("./team1.avif"),
